@@ -461,4 +461,19 @@ footer p {
     margin-left: 10px;
     
 }
+                                      /* For small devices like smartphones */
+@media (max-width: 767px) {
+    /* Add your responsive styles here */
+}
+
+/* For medium devices like tablets */
+@media (min-width: 768px) and (max-width: 991px) {
+    /* Add your responsive styles here */
+}
+
+/* For large devices like desktops */
+@media (min-width: 992px) {
+    /* Add your responsive styles here */
+}
+
 }
